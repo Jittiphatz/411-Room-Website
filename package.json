@@ -1,0 +1,41 @@
+{
+  "name": "411-room-website",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@nextui-org/button": "latest",
+    "@nextui-org/dropdown": "latest",
+    "@nextui-org/image": "latest",
+    "@nextui-org/link": "latest",
+    "@nextui-org/navbar": "latest",
+    "@nextui-org/react": "latest",
+    "@nextui-org/theme": "latest",
+    "aos": "latest",
+    "clsx": "latest",
+    "framer-motion": "latest",
+    "luxon": "latest",
+    "next": "latest",
+    "next-themes": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-icons": "latest",
+    "tailwind-merge": "latest"
+  },
+  "devDependencies": {
+    "@types/aos": "latest",
+    "@types/luxon": "latest",
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "autoprefixer": "latest",
+    "postcss": "latest",
+    "tailwindcss": "latest",
+    "typescript": "latest"
+  }
+}
